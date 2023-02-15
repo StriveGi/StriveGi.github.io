@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9536],{1149:e=>{e.exports=JSON.parse('{"label":"StriveGi","permalink":"/blog/tags/strive-gi","allTagsPath":"/blog/tags","count":1}')}}]);
